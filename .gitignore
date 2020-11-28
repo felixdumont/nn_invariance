@@ -127,6 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# Ignore image files
-images/
+*.jpg
+*.DS_Store
+*.jfif
+*.zip
